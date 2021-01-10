@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+excerpt_separator: "<!--more-->"
+title: ebourgess' journey
+description: A Software Engineer turned DevOps writing about DevOps, coding and miscellaneous stuff
+url: https://ebourgess.dev
