@@ -1,4 +1,4 @@
-module github.com/ebourgess/hugo-ebourgess
+module github.com/ebourgess/ebourgess.github.io
 
 go 1.18
 
