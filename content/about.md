@@ -8,4 +8,4 @@ Although having more than half a decade experience in Software Engineering, I ha
 
 Besides my work, I spend most of days trying to build better habits, work on my cooking skills, and sometimes videogaming.
 
-If you are intersted in following me on social media you can do so on [twitter](https://twitter.com/ebourgess), or connect with me on [linkedin](https://www.linkedin.com/in/ebourgess/)
+If you are intersted in following me on social media you can do so on [mastodon](https://infosec.exchange/@ebourgess), or connect with me on [linkedin](https://www.linkedin.com/in/ebourgess/)
