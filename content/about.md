@@ -4,8 +4,8 @@ date: 2022-10-31T19:51:58+02:00
 draft: false
 ---
 
-Although having more than half a decade experience in Software Engineering, I have always been intrigued by the world of DevOps engineering, and I got to officially make the shift from Software Engineering to DevOps on November 2nd, 2020. Recently, I am just diving into new technologies and dabbling a bit with infosec stuff.
+DevOps Engineer with a Software Engineer background with 8 years of industry experience. Originally from Lebanon but currently plying my trade in Germany. Currently I am diving into new technologies while also dabbling a bit with some infosec.
 
-Besides my work, I spend most of days trying to build better habits, work on my cooking skills, and sometimes videogaming.
+Outside my work you can find me either trying to build healthier habits, working on my cooking skills, or exploring the country.
 
 If you are intersted in following me on social media you can connect with me on [linkedin](https://www.linkedin.com/in/ebourgess/)
