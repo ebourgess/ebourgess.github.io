@@ -1,0 +1,28 @@
+############################
+## Author
+############################
+
+author:
+  name: "Elias Bourgess"
+  image: 'me.jpg'
+  greeting: "DevOps Engineer"
+  icon: ":wave:"
+
+############################
+## Links
+############################
+
+links:
+  - github: https://github.com/ebourgess
+  - linkedin: https://www.linkedin.com/in/ebourgess/
+  - x-twitter: https://twitter.com/ebourgess
+ 
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: "eBourgess"
+description: "DevOps Engineer writing about coding, life and other stuff"
+images:
+  - 'thmbnail.jpg'

@@ -1,0 +1,15 @@
+############################
+## CHANGE THESE
+############################
+
+baseURL: 'https://ebourgess.dev'
+title: 'eBourgess'
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ['taxonomy', 'term']
+languageCode: 'en-us'
+

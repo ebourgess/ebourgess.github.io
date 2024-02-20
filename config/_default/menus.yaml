@@ -1,0 +1,12 @@
+main:
+- name: Home
+  url: /
+  weight: 10
+
+- name: Blog
+  url: /posts/
+  weight: 20
+
+- name: About
+  url: /about/ 
+  weith: 30

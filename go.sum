@@ -1,2 +1,4 @@
 github.com/Mitrichius/hugo-theme-anubis v0.0.0-20220725170731-d4ba47cd2196 h1:TzahMQaJXpezO9D2iQHnifGWPUn+41IWgYNBg/wNtQE=
 github.com/Mitrichius/hugo-theme-anubis v0.0.0-20220725170731-d4ba47cd2196/go.mod h1:FKD3NbdsQzL+cXsC3x99XD/t/Rd5EyhDlNBAxQhULbo=
+github.com/chrede88/qubt v1.2.7 h1:ixyF/Q2KTni78uNlpHaCnd0Ns9olFWoHvmPrL6M0nNo=
+github.com/chrede88/qubt v1.2.7/go.mod h1:D+P6y2ztynEgelFoxOAgsL/YWNXkc1shRs7cR7MeOrY=
