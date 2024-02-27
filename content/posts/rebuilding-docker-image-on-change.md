@@ -21,7 +21,7 @@ services:
       watch:
         - action: sync
           path: .
-		  target: /app
+          target: /app
         - action: rebuild
           path: ./app.py
 ```
