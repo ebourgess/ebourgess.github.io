@@ -2,7 +2,10 @@
 layout: post
 title:  "[ElasticSearch] How to fix issue with elastic search container on windows with WSL and Powershell"
 date:   2023-05-02
-categories: ["elasticsearch", "docker", wsl"]
+authors: ["Elias Bourgess"]
+slug: "fixing-issue-with-elastic-search-on-windows"
+categories: ["DevOps"]
+tags: ["elasticsearch", "docker", wsl"]
 draft: false
 ---
 

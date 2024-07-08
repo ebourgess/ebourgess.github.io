@@ -2,7 +2,10 @@
 layout: post
 title:  "[Git] Deleting all Branches but master"
 date:   2022-08-19
-categories: ["git"]
+slug: "deleting-all-branhes-but-master"
+authors: ["Elias Bourgess"]
+categories: ["DevOps", "GitOps"]
+tags: ["git"]
 draft: false
 ---
 

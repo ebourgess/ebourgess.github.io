@@ -2,7 +2,10 @@
 layout: post
 title: "[Personal] It's been a while"
 date: 2024-01-16T19:42:21+01:00
-categories: ["personal", "reflections"]
+authors: "Elias Bourgess"
+slug: "been-a-while"
+categories: ["Personal"]
+tags: ["personal", "reflections"]
 draft: false
 ---
 

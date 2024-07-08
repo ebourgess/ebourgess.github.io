@@ -2,7 +2,10 @@
 layout: post
 title:  "[Golang] Creating a Password/Secret Generator"
 date:   2024-03-02
-categories: ["golang"]
+slug: "creating-a-password-generator"
+authors: ["Elias Bourgess"]
+categories: ["Software Engineering"]
+tags: ["golang"]
 draft: false
 ---
 

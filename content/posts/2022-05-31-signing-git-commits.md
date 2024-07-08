@@ -2,7 +2,10 @@
 layout: post
 title:  "[Git] Signing Commits"
 date:   2022-05-31
-categories: ["github", "pgp"]
+slug: "signing-git-commits"
+authors: ["Elias Bourgess"]
+categories: ["DevOps"]
+tags: ["github", "pgp"]
 draft: false
 ---
 

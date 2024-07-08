@@ -2,7 +2,10 @@
 layout: post
 title:  "[PKM] Notion and Downtimes"
 date:   2024-03-26
-categories: ["personal", "pkm"]
+authors: ["Elias Bourgess"]
+slug: "notion-and-downtimes"
+categories: ["Personal", "PKM"]
+tags: ["personal", "pkm", "notion"]
 draft: false
 ---
 

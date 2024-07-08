@@ -2,7 +2,10 @@
 layout: post
 title:  "[Linux] Granting a non root app access to priviliged ports"
 date:   2024-02-26
-categories: ["linux"]
+authors: ["Elias Bourgess"]
+slug: "root-app-privileges-for-non-root-apps"
+categories: ["DevOps"]
+tags: ["linux"]
 draft: false
 ---
 

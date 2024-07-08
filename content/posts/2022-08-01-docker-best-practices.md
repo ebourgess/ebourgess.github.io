@@ -2,7 +2,10 @@
 layout: post
 title:  "[Docker] Best practices"
 date:   2022-08-01
-categories: ["docker"]
+slug: "docker-best-practices"
+authors: ["Elias Bourgess"]
+categories: ["DevOps"]
+tags: ["docker"]
 draft: false
 ---
 
