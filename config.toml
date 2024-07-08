@@ -50,6 +50,14 @@ style = "github-dark"
   weight = 3
   url = "https://twitter.com/ebourgess/"
 
+[[params.social]]
+  name = "RSS"
+  icon = "fa-solid fa-rss fa-2x"
+  weight = 6
+  url = "https://ebourgess.dev/index.xml"
+  rel = "alternate"
+  type = "application/rss+xml"
+
 # Menu links
 [[menu.main]]
   name = "Blog"
