@@ -11,9 +11,10 @@ style = "github-dark"
 
 [params]
   author = "Elias Bourgess"
+  license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
   info = "DevOps Engineer"
   description = "DevOps Engineer writing about coding, life, and other stuff"
-  keywords = "blog,devops,personal,developer"
+  keywords = "blog,devops,personal,developer,pkm"
   avatarurl = "images/me.jpg"
 
   faviconSVG = "/images/favicon.svg"
