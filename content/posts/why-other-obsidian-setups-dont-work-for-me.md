@@ -27,6 +27,6 @@ And let's be honest, for me not one note is the same as the other unless it is a
 
 ### I love simplicity
 
-Applications like Obsidian have a tendency to become overcomplicated due to the ability to be over-customised. As this is just an application that I am using for markdown writing, I really don't want to be working on something that would bind me.
+Applications like Obsidian have a tendency to become overcomplicated due to the ability to be over-customized. As this is just an application that I am using for markdown writing, I really don't want to be working on something that would bind me.
 
 So keeping a simple interface would help me write more easily my points and my thoughts.
