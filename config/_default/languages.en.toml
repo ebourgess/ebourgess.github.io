@@ -9,13 +9,13 @@ title = "eBourgess"
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  description = "DevOps Engineer blogs about coding, life and other stuff"
+  description = "DevSecOps Engineer blogs about coding, life and other stuff"
 
 [params.author]
   name = "Elias Bourgess"
   image = "images/me.jpg"
-  headline = "DevOps Engineer"
-  bio = "DevOps Engineer with 9 years of experience in the field, blogs about coding, life and other stuff"
+  headline = "DevSecOps Engineer"
+  bio = "DevSecOps Engineer, Tech Enthusiast, Lifelong Learner, Geek"
   links = [
     { email = "mailto:elias@ebourgess.dev" },
     { github = "https://github.com/ebourgess" },
