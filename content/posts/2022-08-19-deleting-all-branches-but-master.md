@@ -5,7 +5,6 @@ date:   2022-08-19
 slug: "deleting-all-branhes-but-master"
 authors: ["Elias Bourgess"]
 categories: ["DevOps", "GitOps"]
-tags: ["git"]
 draft: false
 ---
 

@@ -4,8 +4,7 @@ title:  "[Docker] Rebuilding the Docker Image on change"
 date:   2024-02-28
 authors: ["Elias Bourgess"]
 slug: "rebuilding-docker-images-on-change"
-categories: ["DevOps"]
-tags: ["docker", "docker-compose"]
+categories: ["DevOps", "Docker"]
 draft: false
 ---
 

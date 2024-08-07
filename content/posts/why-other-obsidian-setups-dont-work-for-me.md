@@ -5,7 +5,6 @@ date:   2024-07-22
 authors: ["Elias Bourgess"]
 slug: "why-other-obsidian-setups-dont-work-for-me"
 categories: ["Personal", "PKM"]
-tags: ["personal", "pkm", "obsidian"]
 draft: false
 ---
 

@@ -5,7 +5,6 @@ date:   2022-04-23
 authors: ["Elias Bourgess"]
 slug: "migrating-from-gitlab-to-github"
 categories: ["DevOps", "GitOps"]
-tags: ["git", "github-gitlab-migration"]
 draft: false
 ---
 

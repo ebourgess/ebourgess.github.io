@@ -4,8 +4,7 @@ title:  "[Git] Signing Commits"
 date:   2022-05-31
 slug: "signing-git-commits"
 authors: ["Elias Bourgess"]
-categories: ["DevOps"]
-tags: ["github", "pgp"]
+categories: ["DevOps", "GitOps"]
 draft: false
 ---
 

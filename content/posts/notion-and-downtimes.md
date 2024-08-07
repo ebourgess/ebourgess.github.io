@@ -5,7 +5,6 @@ date:   2024-03-26
 authors: ["Elias Bourgess"]
 slug: "notion-and-downtimes"
 categories: ["Personal", "PKM"]
-tags: ["personal", "pkm", "notion"]
 draft: false
 ---
 

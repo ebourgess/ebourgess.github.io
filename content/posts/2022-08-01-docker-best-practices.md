@@ -4,8 +4,7 @@ title:  "[Docker] Best practices"
 date:   2022-08-01
 slug: "docker-best-practices"
 authors: ["Elias Bourgess"]
-categories: ["DevOps"]
-tags: ["docker"]
+categories: ["DevOps", "Docker"]
 draft: false
 ---
 

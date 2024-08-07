@@ -4,8 +4,7 @@ title:  "[ElasticSearch] How to fix issue with elastic search container on windo
 date:   2023-05-02
 authors: ["Elias Bourgess"]
 slug: "fixing-issue-with-elastic-search-on-windows"
-categories: ["DevOps"]
-tags: ["elasticsearch", "docker", "wsl"]
+categories: ["DevOps", "WSL", "ElasticSearch"]
 draft: false
 ---
 
