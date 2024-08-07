@@ -18,8 +18,8 @@ title = "eBourgess"
   bio = "DevOps Engineer with 9 years of experience in the field, blogs about coding, life and other stuff"
   links = [
     { email = "mailto:elias@ebourgess.dev" },
-    { dev = "https://dev.to/ebourgess" },
     { github = "https://github.com/ebourgess" },
     { linkedin = "https://linkedin.com/in/ebourgess" },
     { mastodon = "https://infosec.exchange/@ebourgess" },
+    { x-twitter = "https://twitter.com/ebourgess" },
   ]
