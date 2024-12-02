@@ -20,6 +20,4 @@ title = "eBourgess"
     { email = "mailto:elias@ebourgess.dev" },
     { github = "https://github.com/ebourgess" },
     { linkedin = "https://linkedin.com/in/ebourgess" },
-    { mastodon = "https://infosec.exchange/@ebourgess" },
-    { x-twitter = "https://twitter.com/ebourgess" },
   ]
